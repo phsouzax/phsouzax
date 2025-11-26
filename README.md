@@ -1,5 +1,7 @@
 🚇 Estagiário na Companhia do Metropolitano de São Paulo - Metrô
+
 💻 Estudante de Desenvolvimento Back-End (em formação)
+
 🎯 Focado em Java, Back-End, Cloud e boas práticas de engenharia
 
 📚 Atualmente aprendendo
