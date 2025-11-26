@@ -4,6 +4,9 @@
 
 🎯 Focado em Java, Back-End, Cloud e boas práticas de engenharia
 
+🌐 Inglês — Intermediário / Intermediário Avançado (Avaliação ILAC)  
+Ênfase em leitura e interpretação de textos
+
 📚 Aprendendo:
 
 - Arquitetura Back-End (APIs REST, boas práticas, Clean Code)
