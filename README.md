@@ -4,7 +4,7 @@
 
 🎯 Focado em Java, Back-End, Cloud e boas práticas de engenharia
 
-📚 Atualmente aprendendo:
+📚 Aprendendo:
 
 - Arquitetura Back-End (APIs REST, boas práticas, Clean Code)
 - Fundamentos de Cloud (AWS — Practitioner)
