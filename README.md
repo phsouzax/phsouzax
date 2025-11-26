@@ -1,16 +1,18 @@
-## Hi there 👋
+🚇 Estagiário na Companhia do Metropolitano de São Paulo - Metrô
+💻 Estudante de Desenvolvimento Back-End (em formação)
+🎯 Focado em Java, Back-End, Cloud e boas práticas de engenharia
 
-<!--
-**phsouzax/phsouzax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Atualmente aprendendo
 
-Here are some ideas to get you started:
+- Arquitetura Back-End (APIs REST, boas práticas, Clean Code)
+- Fundamentos de Cloud (AWS — Practitioner)
+- Golang para serviços e automações
+- Python para scripts e produtividade
+- Projetos pessoais e práticas de versionamento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Como me encontrar
+
+LinkedIn:https://www.linkedin.com/in/pedro-souzza/
+
+🧑‍💻 Tecnologias que estudo / utilizo
+[![My Skills](https://skillicons.dev/icons?i=java,go,py,spring,django,aws,postgres,mysql)](https://skillicons.dev)
