@@ -14,4 +14,4 @@ LinkedIn:https://www.linkedin.com/in/pedro-souzza/
 🧑‍💻 Tecnologias que estudo / utilizo
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,go,spring,django,aws,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,spring,aws,postgres,mysql)](https://skillicons.dev)
