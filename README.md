@@ -9,4 +9,4 @@
 
 LinkedIn:https://www.linkedin.com/in/pedro-souzza/
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,v0,spring,git,aws,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,spring,git,aws,postgres,mysql)](https://skillicons.dev)
